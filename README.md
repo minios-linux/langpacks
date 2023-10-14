@@ -1,0 +1,2 @@
+# langpacks
+MiniOS language packs
